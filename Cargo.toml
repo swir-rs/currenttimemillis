@@ -1,0 +1,12 @@
+[package]
+name = "currenttimemillis"
+version = "0.0.1"
+description = "Equivalent of Java System.currentTimeMillis."
+repository = "https://github.com/swir-rs/swir"
+readme = "README.md"
+keywords = ["time", "system"]
+authors = ["Dawid Nowak <nowakd@gmail.com>"]
+categories = ["time","system"]
+license = "MIT/Apache-2.0"
+
+
